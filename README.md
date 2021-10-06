@@ -1,6 +1,6 @@
 # Projeto realizado Desafio 5 Projetos em 5 Dias
 
-online: https://reactlista.netlify.app
+online: 
 
 # Projeto - GESTOR FINANÇAS PESSOAIS
 
